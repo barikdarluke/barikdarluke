@@ -7,7 +7,7 @@
 - <b>Cyprese Porject</b>
   - [Cypress](https://github.com/barikdarluke/Sprial_Assignment/tree/master/Assignment1) <b><i>
 
-<h2>Certificate</h2>
+<h2>Certification</h2>
 
 - [Google Cybersecurity ](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-cybersecurity_google_FTCOF_professional-certificates_country-US&campaignid=20086358053&adgroupid=151760779147&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=657301332651&hide_mobile_promo&gclid=CjwKCAjw7c2pBhAZEiwA88pOF8kjg5XBW81u_yqQ-56zU_cbJMviX6SHXZXgDsn8fVSlT7xiz5g41xoCf8MQAvD_BwE)  <b><i> Expected 11/23
 
